@@ -1,0 +1,25 @@
+
+
+Functional Requirements
+
+
+	System: The system should be able to do CRUD operations of entities Garden and Plant like:
+		-Add new plant
+		-Update a plant
+		-Delete a Plant
+		-Add new Garden
+		-Update Garden
+		-Delete Garde
+
+	User 
+
+		User should be able to see in console the following lists:
+
+		Garden: 
+			-user should be able to display the list of all garden where includes: ID, Name and Size
+	
+
+		Plant:
+			-User should be able to display all plants sorted by Name where includes: ID, Name, Type, 			Plant Date, Garden
+
+			-User should be able to display All Plants sorted by Plant Date where includes: ID, Name, 			Type, Plant Date, Garden
