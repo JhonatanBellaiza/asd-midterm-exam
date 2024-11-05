@@ -34,8 +34,7 @@ public class Plant {
 
     @Override
     public String toString() {
-        return "Plant{" +
-                "Plant =" + plantId +
+        return "Plant =" + plantId +
                 ", name='" + name + '\'' +
                 ", type='" + type + '\'' +
                 ", plantDate=" + plantDate +

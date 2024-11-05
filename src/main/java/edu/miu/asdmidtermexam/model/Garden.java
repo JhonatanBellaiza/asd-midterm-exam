@@ -35,8 +35,7 @@ public class Garden {
 
     @Override
     public String toString() {
-        return "Garden{" +
-                "Garden =" + gardenId +
+        return "Garden =" + gardenId +
                 ", Name ='" + name + '\'' +
                 ", Size =" + size +
                 '}';
